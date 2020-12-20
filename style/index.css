@@ -1,0 +1,68 @@
+
+.parent-container {
+    border: 1px solid lightgrey;
+    height: 560px;
+    width:  320px;
+    padding-left: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.icon {
+    padding-left: 30px;
+    color: red;
+    font-weight: lighter;
+    font-size: 40px;
+}
+
+.heading {
+    padding-top: 20px;
+    padding-right: 6px;
+    margin-bottom: 30px;
+}
+
+.tasks {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 700;
+    font-size: 50px;
+    font-size: 50px;
+    padding-right: 5px;
+}
+
+.lists {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: grey;
+    font-weight: bold;
+    font-size: 50px;
+    font-weight: 200;
+    font-weight: 100;
+}
+
+.trip-list {
+    border: 1px solid rgb(255, 155, 155);
+    border-radius: 8px;
+    margin-top: 25px;
+    
+    box-shadow: 5px 4px 10px lightgray ;
+    margin-right: 35px;
+}
+
+.trip-list-text {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-size: 18px;
+    padding-left: 19px;
+}
+
+.link-div {
+    position: relative;
+}
+
+.link {
+    position: absolute;
+    right: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+}
